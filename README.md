@@ -13,12 +13,6 @@ The technologies used to develop the project are very simple.
 <img align="center" alt="C++" height="38" width="80" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
-## Usage
-
-To use the project, simply use the VsCode live server in "index.html" we didn't do the backend.
-<div style="display: block"><br>
-<img align="center" alt="Live Server" height="38" width="120" src="https://img.shields.io/badge/Live%20Server-323330?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
 
 ## Contact
 <strong> Project Developer Members: </strong> We are both Computer Science students at the Federal University of Mato Grosso - Class of 2022.
