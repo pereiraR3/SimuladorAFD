@@ -1,36 +1,26 @@
 # SimuladorAFD
 
-Project started and completed in 2024, prepared in less than 1 week.
+Projeto iniciado e concluído em 2024, preparado em menos de 1 semana.
 
-## Overview
-The project is nothing more than a landing page that was requested by a research and extension group at the Federal University of Mato Grosso. The idea was basically to do something to show the focus of the research group, in addition to presenting its members and what they do.
+## Visão Geral
+O projeto não é nada mais do que uma página de destino que foi solicitada por um grupo de pesquisa e extensão da Universidade Federal de Mato Grosso. A ideia era basicamente fazer algo para mostrar o foco do grupo de pesquisa, além de apresentar seus membros e o que eles fazem.
 
-## Technologies Used
+## Tecnologias Utilizadas
 
-The technologies used to develop the project are very simple.
+As tecnologias usadas para desenvolver o projeto são muito simples.
 
 <div style="display: inline_block" align= "center"><br>
 <img align="center" alt="C++" height="38" width="80" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
+## Contato
+<strong> Membros Desenvolvedores do Projeto: </strong> Somos ambos estudantes de Ciência da Computação na Universidade Federal de Mato Grosso - Turma de 2022.
 
-## Contact
-<strong> Project Developer Members: </strong> We are both Computer Science students at the Federal University of Mato Grosso - Class of 2022.
-
-| Anthony Ricardo Rodrigues Rezende | Alan Bruno Moraes Costa | Vinicius Padilha Vieira | Andrey Luiggi da Cruz |
-| --- | --- |
-| <img src="./ImagesMembers/anthony.jpeg" alt="Anthony's Photo" width="100"/> | <img src="./ImagesMembers/alan.jpeg" alt="Alan's Photo" width="100"/> | <img src="./ImagesMembers/alan.jpeg" alt="Alan's Photo" width="100"/> | <img src="./ImagesMembers/alan.jpeg" alt="Alan's Photo" width="100"/>
-
-- **Email:** anthony_rodriguespereira@outlook.com
-- **LinkedIn:** [Anthony's LinkedIn](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/)
-  <br>
-- **Email:** alanbrunomoraescosta18@hotmail.com
-- **LinkedIn:** [Alan's LinkedIn](https://www.linkedin.com/in/alan-morais-4861322b0)
-  <br>
-- **Email:** alanbrunomoraescosta18@hotmail.com
-- **LinkedIn:** [Alan's LinkedIn](https://www.linkedin.com/in/alan-morais-4861322b0)
-  <br>
-- **Email:** alanbrunomoraescosta18@hotmail.com
-- **LinkedIn:** [Alan's LinkedIn](https://www.linkedin.com/in/alan-morais-4861322b0)
+| Membro | Foto | Email | LinkedIn |
+| --- | --- | --- | --- |
+| Anthony Ricardo Rodrigues Rezende | <img src="./Membros/anthony.jpeg" alt="Foto do Anthony" width="100"/> | anthony_rodriguespereira@outlook.com | [LinkedIn do Anthony](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/) |
+| Alan Bruno Moraes Costa | <img src="./Membros/alan.jpeg" alt="Foto do Alan" width="100"/> | alanbrunomoraescosta18@hotmail.com | [LinkedIn do Alan](https://www.linkedin.com/in/alan-morais-4861322b0) |
+| Vinicius Padilha Vieira | <img src="./Membros/vinicius.jpeg" alt="Foto do Vinicius" width="100"/> | vinicius_padilhavieira@outlook.com | [LinkedIn do Vinicius](https://www.linkedin.com/in/vinicius-padilha-vieira-486917227/) |
+| Andrey Luiggi da Cruz | <img src="./Membros/andrey.jpeg" alt="Foto do Andrey" width="100"/> | andrey_luiggidacruz@outlook.com | [LinkedIn do Andrey](https://www.linkedin.com/in/andrey-luiggi-da-cruz-4861322b0) |
 
 ##
