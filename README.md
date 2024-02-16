@@ -19,7 +19,7 @@ As tecnologias usadas para desenvolver o projeto são muito simples.
 | Membro | Foto | Email | LinkedIn |
 | --- | --- | --- | --- |
 | Anthony Ricardo Rodrigues Rezende | <img src="./Membros/anthony.jpeg" alt="Foto do Anthony" width="100"/> | anthony_rodriguespereira@outlook.com | [LinkedIn do Anthony](https://www.linkedin.com/in/anthony-ricardo-rodrigues-rezende-486917227/) |
-| Alan Bruno Moraes Costa | <img src="./Membros/alan.jpeg" alt="Foto do Alan" width="100"/> | alanbrunomoraescosta18@hotmail.com | [LinkedIn do Alan](https://www.linkedin.com/in/alan-morais-4861322b0) |
+| Alan Bruno Moraes Costa | <img src="./Membros/alanB.jpeg" alt="Foto do Alan" width="100"/> | alanbrunomoraescosta18@hotmail.com | [LinkedIn do Alan](https://www.linkedin.com/in/alan-morais-4861322b0) |
 | Vinicius Padilha Vieira | <img src="./Membros/vinicius.jpeg" alt="Foto do Vinicius" width="100"/> | vinicius_padilhavieira@outlook.com | [LinkedIn do Vinicius](https://www.linkedin.com/in/vinicius-padilha-vieira-486917227/) |
 | Andrey Luiggi da Cruz | <img src="./Membros/andrey.jpeg" alt="Foto do Andrey" width="100"/> | andrey_luiggidacruz@outlook.com | [LinkedIn do Andrey](https://www.linkedin.com/in/andrey-luiggi-da-cruz-4861322b0) |
 
