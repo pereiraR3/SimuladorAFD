@@ -1,0 +1,109 @@
+Teste 01:
+
+Exemplos de Entrada:
+
+4      // Número de estados
+0      // Estado inicial
+1      // Número de estados finais
+3      // Estados finais
+2      // Número de símbolos no alfabeto
+a b    // Símbolos no alfabeto
+8      // Número de transições
+
+0 b 0  // Transição: estado 0, símbolo b, para o próprio estado 0 
+0 a 1  // Transição: estado 0, símbolo a, próximo estado 1
+1 b 1  // Transição: estado 1, símbolo b, para o próprio estado 1
+1 a 2  // Transição: estado 1, símbolo a, próximo estado 2
+2 b 2  // Transição: estado 2, símbolo b, para o próprio estado 2
+2 a 3  // Transição: estado 2, símbolo a, próximo estado 3
+3 a 3  // Transição: estado 3, símbolo a, para o próprio estado 3
+3 b 3  // Transição: estado 3, símbolo b, para o próprio estado 3
+
+Aceitos:
+
+aaa
+ababa
+abbaab
+abaaaaa
+abababbb
+aaabbaa
+
+Rejeitados:
+
+aba
+aabb
+abba
+baaa
+bababa
+babbaab
+
+Teste 02:
+
+Exemplos de Entrada:
+
+2      // Número de estados
+0      // Estado inicial
+1      // Número de estados finais
+0      // Estados finais
+2      // Número de símbolos no alfabeto
+1 0    // Símbolos no alfabeto
+4      // Número de transições
+
+0 0 0  // Transição: estado 0, símbolo 0, para o próprio estado 0 
+0 1 1  // Transição: estado 0, símbolo 1, próximo estado 1
+1 1 1  // Transição: estado 1, símbolo 1, para o próprio estado 1
+1 0 0  // Transição: estado 1, símbolo 0, próximo estado 0
+
+Aceitos:
+
+0
+0110
+011100
+00001100
+001110110
+01111110
+
+Rejeitados:
+
+00
+00101
+011100111
+11001100
+0011101101
+011111101
+
+Teste 03:
+
+Exemplos de Entrada:
+
+4      // Número de estados
+0      // Estado inicial
+1      // Número de estados finais
+3      // Estados finais
+2      // Número de símbolos no alfabeto
+a b    // Símbolos no alfabeto
+5      // Número de transições
+
+0 a 1  // Transição: estado 0, símbolo a, próximo estado 1
+1 b 0  // Transição: estado 1, símbolo b, próximo estado 0
+0 b 2  // Transição: estado 0, símbolo b, próximo estado 2
+2 a 3  // Transição: estado 2, símbolo a, próximo estado 3
+3 b 3  // Transição: estado 3, símbolo b, para o próprio estado 3
+
+Aceitos:
+
+ba
+bab
+babb
+ababba
+ababbabb
+ababababbab
+
+Rejeitados:
+
+baa
+babba
+babbaa
+ababbaba
+ababbabba
+ababababbaba
