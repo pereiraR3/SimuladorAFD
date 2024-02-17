@@ -3,7 +3,7 @@
 Projeto iniciado e concluído em 2024, preparado em menos de 1 semana.
 
 ## Visão Geral
-O projeto não é nada mais do que a construção de um simulador de AFD (Autômato Finito Dterminístico), dentre o qual deverá ser rapaz de receber entradas para a construção de um AFD e testá-lo.
+O projeto não é nada mais do que a construção de um simulador de AFD (Autômato Finito Determinístico), dentre o qual deverá ser rapaz de receber entradas para a construção de um AFD além de receber entradas para testes, retornando "Aceito" em caso de ser uma palavra possível de ser gerada e "Rejeitado" em caso de ser uma palavra não aceita.
 
 ## Tecnologias Utilizadas
 
