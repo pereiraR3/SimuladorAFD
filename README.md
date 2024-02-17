@@ -3,11 +3,11 @@
 Projeto iniciado e concluído em 2024, preparado em menos de 1 semana.
 
 ## Visão Geral
-O projeto não é nada mais do que uma página de destino que foi solicitada por um grupo de pesquisa e extensão da Universidade Federal de Mato Grosso. A ideia era basicamente fazer algo para mostrar o foco do grupo de pesquisa, além de apresentar seus membros e o que eles fazem.
+O projeto não é nada mais do que a construção de um simulador de AFD (Autômato Finito Dterminístico), dentre o qual deverá ser rapaz de receber entradas para a construção de um AFD e testá-lo.
 
 ## Tecnologias Utilizadas
 
-As tecnologias usadas para desenvolver o projeto são muito simples.
+A tecnologia usada para desenvolver o projeto é a seguinte:
 
 <div style="display: inline_block" align= "center"><br>
 <img align="center" alt="C++" height="38" width="80" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
